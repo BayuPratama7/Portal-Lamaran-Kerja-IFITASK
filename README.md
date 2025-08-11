@@ -1,4 +1,4 @@
-# 🚀 Portal Lowongan Kerja
+# 🚀 Portal Lamaran Kerja
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -541,24 +541,17 @@ Kami sangat menghargai kontribusi dari developer lain!
 
 ---
 
-## 📄 License
-
-Project ini menggunakan **MIT License**. Lihat file `LICENSE` untuk detail.
-
----
-
 ## 📞 Support & Contact
 
 - 📧 **Email**: developer@portalkerja.com
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/portal-lowongan-kerja/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/portal-lowongan-kerja/wiki)
+- 📖 **Documentation**: (https://github.com/BayuPratama7/Portal-Lamaran-Kerja-IFITASK)
 
 ---
 
 <p align="center">
-  <strong>🚀 Portal Lowongan Kerja - Connecting Talent with Opportunity</strong>
+  <strong>🚀 Portal Lamaran Kerja - Connecting Talent with Opportunity</strong>
 </p>
 
 <p align="center">
-  Made with ❤️ by developers, for developers
+  Made with ❤️, by BayuPratama7
 </p>
