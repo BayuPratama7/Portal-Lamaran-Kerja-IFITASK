@@ -543,7 +543,7 @@ Kami sangat menghargai kontribusi dari developer lain!
 
 ## 📞 Support & Contact
 
-- 📧 **Email**: developer@portalkerja.com
+- 📧 **Email**: bayubys07@gmail.com
 - 📖 **Documentation**: (https://github.com/BayuPratama7/Portal-Lamaran-Kerja-IFITASK)
 
 ---
